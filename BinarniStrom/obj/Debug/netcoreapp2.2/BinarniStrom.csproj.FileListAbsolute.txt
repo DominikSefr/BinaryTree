@@ -1,0 +1,11 @@
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\bin\Debug\netcoreapp2.2\BinarniStrom.deps.json
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\bin\Debug\netcoreapp2.2\BinarniStrom.runtimeconfig.json
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\bin\Debug\netcoreapp2.2\BinarniStrom.runtimeconfig.dev.json
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\bin\Debug\netcoreapp2.2\BinarniStrom.dll
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\bin\Debug\netcoreapp2.2\BinarniStrom.pdb
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\obj\Debug\netcoreapp2.2\BinarniStrom.csprojAssemblyReference.cache
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\obj\Debug\netcoreapp2.2\BinarniStrom.csproj.CoreCompileInputs.cache
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\obj\Debug\netcoreapp2.2\BinarniStrom.AssemblyInfoInputs.cache
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\obj\Debug\netcoreapp2.2\BinarniStrom.AssemblyInfo.cs
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\obj\Debug\netcoreapp2.2\BinarniStrom.dll
+C:\Users\domsefr017.AD\Desktop\BinarniStrom\BinarniStrom\obj\Debug\netcoreapp2.2\BinarniStrom.pdb
